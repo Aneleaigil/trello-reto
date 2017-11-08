@@ -1,0 +1,56 @@
+*{
+	margin:0;
+}
+
+.logo{
+width: 10%;
+}
+
+.panel{
+	width: 20px;
+	margin-right: 10px;
+	margin-left: 5px;
+	margin-top: 2px;
+	
+}
+.menu{
+	background: #a390dd;
+	display: inline-block;
+	outline: 1px solid black;
+	
+}
+.imagen{
+	text-align: center;
+	padding-top: 20px;
+}
+.Tablero{
+	color: white;
+	border:  1px solid white;
+	width: 100px;
+	padding: 3px;
+	border-radius: 5px;
+	margin-left: 50px;
+	
+}
+
+input{
+background: #026AA7;
+border-style: none;
+
+}
+.search {
+	float: left;
+    margin-right: 50px;
+    border: 1px solid white;
+    width: 200px;
+    margin:10px;
+    background: #026AA7;
+    opacity: 0.5;
+}
+.iconos{
+	float: right;
+	margin-right: 10px;
+	padding: 10px;
+	color:white;
+
+}
